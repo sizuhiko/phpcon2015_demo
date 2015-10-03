@@ -1,0 +1,12 @@
+{
+    "name": "kishidakenichirou/demo",
+    "description": "demo program",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sizuhuhiko",
+            "email": "sizuhiko@gmail.com"
+        }
+    ],
+    "require": {}
+}
